@@ -33,10 +33,6 @@ You can run the entire project directly in Google Colab:
 
 ## ✅ Model Performance
 
-> 📸 *Add a screenshot of your classification report output below this line*
-
-![Model Accuracy Screenshot](relative/path/to/your/screenshot.png)
-
 ```text
 ✅ Accuracy: 0.9677
 
