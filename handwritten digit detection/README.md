@@ -8,7 +8,6 @@ A real-time digit classifier using TensorFlow and Streamlit that achieves **99.2
 
 - `app.py` – Streamlit web application  
 - `mnist_model.h5` – Pre-trained model  
-- `model_trainer.py` – Python script to train the CNN model  
 - `Handwritten Digit Recognition (MNIST).ipynb` – Training notebook (Colab-ready)
 
 ## 🚀 Quick Start
