@@ -42,7 +42,7 @@ Dataset includes:
 ## 📓 Google Colab Notebook
 
 Train the models and export the combined `.pkl` model for deployment.  
-🔗 [Open in Google Colab](<https://colab.research.google.com/drive/1bOmPwshSsbiLw_lkBm2dd13LTmBei3Bo?usp=sharing)
+🔗 [Open in Google Colab](https://colab.research.google.com/drive/1bOmPwshSsbiLw_lkBm2dd13LTmBei3Bo?usp=sharing)
 
 ---
 
